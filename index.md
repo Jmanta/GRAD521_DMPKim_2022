@@ -1,4 +1,4 @@
-#Data Management Plan
+# Data Management Plan
 
 # Data description
 The Korea National Health and Nutrition Examination Survey (KNHANES) provide a publicly available health dataset. The dataset contains various health data, including socioeconomic status, medical examinations, and nutrition. My research interest is defining the relationship between physical activity behavior and the health outcomes of Korean adults. Specifically, the recent research is focused on investigating the relationship between sedentary behavior and metabolic syndrome.
